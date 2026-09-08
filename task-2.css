@@ -1,0 +1,19 @@
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+.first {
+    text-align: left;
+}
+
+.second {
+    text-align: right;
+    font-family: monospace;
+}
